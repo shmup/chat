@@ -1,0 +1,4 @@
+[package]
+name = "chat"
+version = "0.0.1"
+authors = ["Jared Miller <jtmiller@gmail.com>"]
